@@ -1,6 +1,6 @@
 # High-energy radiation and pair production by Coulomb processes in particle-in-cell simulations
 
-Authors of paper: B. Martinez, M. Lobet, R. Duclous, et al. Phys. Plasmas 26, 103109 (2019)
+Authors of paper: [B. Martinez](https://github.com/bertrandmartinez), M. Lobet, R. Duclous, et al. Phys. Plasmas 26, 103109 (2019)
 
 Link to paper: https://pubs.aip.org/aip/pop/article/26/10/103109/264054/High-energy-radiation-and-pair-production-by
 
