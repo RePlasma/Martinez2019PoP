@@ -4,7 +4,7 @@ Authors of paper: [B. Martinez](https://github.com/bertrandmartinez), M. Lobet, 
 
 Link to paper: https://pubs.aip.org/aip/pop/article/26/10/103109/264054/High-energy-radiation-and-pair-production-by
 
-Notebook: Óscar Amaro, February 2023 @ GoLP-EPP
+Notebook: [Óscar Amaro](https://github.com/OsAmaro), February 2023 @ GoLP-EPP
 
 Also, see https://github.com/bertrandmartinez/benchmark_osiris_qed for Python scripts to compute QED-Coulomb rates.
 
